@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### The purpose of this exercise was essentially to expand upon the analysis a large dataset of kickstarter campaigns per the request of Louise, who's play "Fever" approached its fundraising goal in a brief period of time. These two additional analyses explore campaign outcomes in relation to launch date and goals, respectively. Via the use of tables and visualizations, the objective was to determine potential trends and correlations which may improve the liklihood of a successful launch for Louise's project.
+### The purpose of this exercise was essentially to expand upon the analysis of a large dataset of kickstarter campaigns per the request of Louise, who's play "Fever" approached its fundraising goal in a brief period of time. These two additional analyses explore campaign outcomes in relation to launch date and goals, respectively. Via the use of tables and visualizations, the objective was to determine potential trends and correlations which may improve the liklihood of a successful launch for Louise's project.
 
 ## Analysis and Challenges
 
